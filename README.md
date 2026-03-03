@@ -1,22 +1,19 @@
 ## Hi, I'm Rod
 
-Solo builder working across education tools, privacy-first software, and AI agent systems.
-Currently 4 builds in active development.
+Independent researcher and builder working at the intersection of AI, institutional design, and education technology.
 
-### Live
+### Research
 
-| Project | What it is |
-|---------|-----------|
-| [BattleGuess](https://battleguess.io) | Real-time multiplayer word guessing game · themed word banks · ELO ranking |
+**Scarcity Transition Sim** — Agent-based simulation studying what happens to economic coordination mechanisms (price signals, money, property rights, employment, taxation, reputation, queuing) when AI drives material scarcity toward zero. Mesa 3 · LLM-powered agents · peer-review bound.
 
 ### Building
 
-Three AI-powered education tools: an exam generator for language teachers, an English
-teaching platform with 8 specialized agents covering CEFR A1–C2, and an IELTS trainer
-with personalized coaching and band score predictions.
+**TeacherForge** — AI exam and worksheet generator for language teachers. Upload any exam, get a mock. Vision-first architecture.
 
-One privacy project: a personal AI agent built in Rust that runs entirely on your machine.
+**IELTS Trainer** — English teaching platform with specialized agents covering CEFR A1–C2, personalized coaching, and band score predictions.
+
+**Personal AI agent** — Privacy-first, built in Rust. Runs entirely on your machine.
 
 ### Stack
 
-Python · Rust · Flutter · FastAPI · LangGraph
+Python · Rust · Flutter · FastAPI · Mesa
