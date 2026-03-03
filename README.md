@@ -1,4 +1,4 @@
-## Hi, I'm Rodrigue
+## Hi, I'm Rod
 
 Solo builder working across education tools, privacy-first software, and AI agent systems.
 Currently 4 builds in active development.
