@@ -14,4 +14,4 @@ Independent builder working at the intersection of AI, education, and simulation
 
 ### Stack
 
-Python · FastAPI · Flutter · Rust
+Python · FastAPI · Flutter · Mesa
