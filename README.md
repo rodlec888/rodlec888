@@ -6,7 +6,7 @@ Independent builder working at the intersection of AI, education, and simulation
 
 **[TeacherForge](https://teacherforge.io)** — AI-powered worksheet and exam generator for ESL teachers. Six composable skill modules (grammar, vocabulary, reading, writing, listening, exam) with print-ready PDF output.
 
-**[BattleGuess](https://battleguess.com)** — Real-time multiplayer word game with ELO ranking and themed word banks.
+**[BattleGuess](https://battleguess.io)** — Real-time multiplayer word game with ELO ranking and themed word banks.
 
 ### Research
 
